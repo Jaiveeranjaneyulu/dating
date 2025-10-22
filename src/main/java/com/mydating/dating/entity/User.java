@@ -1,4 +1,4 @@
-																					package com.mydating.dating.entity;
+package com.mydating.dating.entity;
 
 import java.util.List;
 
